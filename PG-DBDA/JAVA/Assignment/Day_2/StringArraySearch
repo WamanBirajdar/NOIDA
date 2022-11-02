@@ -1,0 +1,46 @@
+package Day_3;
+
+import java.util.*;
+
+public class StringArraySearch {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i;
+		String k[]=new String[4];
+		
+		
+		Scanner s=new Scanner(System.in);
+		
+		// taking input from user
+		for(i=0;i<k.length;i++)
+		{
+			System.out.println("Enter name");
+			k[i]=s.next();
+		}
+		
+		//print output on console
+		for(i=0;i<k.length;i++)
+		{
+			System.out.println(k[i]);
+
+		}
+		System.out.println("Enter string which you want to searched");
+		String name=s.next();
+		
+		//search string in array
+		for(i=0;i<k.length;i++)
+		{
+			if(k[i].equalsIgnoreCase(name))
+			{
+				System.out.println("String found");
+				break;
+			}
+		}
+		if(i==k.length)
+		{
+			System.out.println("string not found");
+		}
+	}
+
+}
