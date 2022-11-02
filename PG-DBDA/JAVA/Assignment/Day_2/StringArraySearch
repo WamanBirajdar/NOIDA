@@ -1,3 +1,4 @@
+// wap program to take string from user and store them in array and  search string in array 
 package Day_3;
 
 import java.util.*;
