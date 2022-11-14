@@ -1,5 +1,3 @@
-//example of linked list
-
 package Day_10_commandline_argument;
 
 import java.util.*;
@@ -8,27 +6,46 @@ public class LInkedList {
 
 	public static void main(String[] args) {
 		
-		LinkedList <Integer> l=new LinkedList();
+		LinkedList l=new LinkedList();
 		
-		l.add(12);
-		l.add(22);
-		l.add(344);
-		l.add(34);
-		l.add(0,100);
-		l.add(0,200);
-		l.addFirst(300);
-		l.removeLast();
+		//initial list of linked list
 		
+		l.add("waman");
+		l.add("kalpesh");
+		l.add("keshav");
+		l.add("waman");	//accepting duplicate 
 		System.out.println(l);
 		
-		Iterator i=l.iterator();
+		//adding an element to specific position
 		
-		while(i.hasNext())
-		{
-			System.out.println(i.next());
-		}
+		l.add(1,"prathmesh");
+		System.out.println();
+		System.out.println(l);
+		System.out.println();
 		
-
+		LinkedList ll=new LinkedList();
+		ll.addAll(l);
+		System.out.println(ll);
+		
+		LinkedList lll=new LinkedList();
+		lll.add("pankaj");
+		lll.add("madhur");
+		System.out.println();
+		
+		System.out.println(lll);
+		
+		ll.addAll(1,lll);
+		
+		System.out.println(ll);
+		
+		//adding element to first position
+		ll.addFirst("john");
+		
+		System.out.println(ll);
+		
+		//adding element at last position
+		ll.addLast("ganesh");
+		System.out.println(ll);
 	}
 
 }
