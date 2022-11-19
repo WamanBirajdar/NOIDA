@@ -55,3 +55,35 @@ public class Linear_Example {
 	}
 
 }
+
+/*
+Enter the array elemts
+5
+Insert element in array
+10
+Insert element in array
+13
+Insert element in array
+2
+Insert element in array
+33
+Insert element in array
+45
+10
+13
+2
+33
+45
+Enter the number to be search
+33
+Key found
+
+ */
+
+
+
+/*
+BEST CASE COMLIXITY:
+WORST CASE COMLIXITY:
+AVG CASE COMLIXITY:
+ */
