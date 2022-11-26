@@ -32,3 +32,8 @@ public class LeaderInArray
 		
 	}
 }
+/*
+OUTPUT:
+22 12 6 
+7 1 0 
+*/
