@@ -35,3 +35,10 @@ public class InterfaceCalculator {
 	}
 
 }
+
+/*output
+	ENTER THE NUMBER:
+	6
+	SUM:
+	12
+*/
