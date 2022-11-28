@@ -7,7 +7,9 @@
   ###### Game Devlopement
   ###### GUI Application
                  
-## Hello World! 
-  Let's see syntax of python programming language
+## RoadMap Of Python Developer:
+  ## Vairiables
+  ## Operators
+  ## Loops
+  ## List
   
-  __print("Hello'World")
