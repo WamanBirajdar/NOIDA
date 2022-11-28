@@ -9,7 +9,7 @@
                  
 ## RoadMap Of Python Developer:
   ## Vairiables
-  ###### Here are some Rules to defined Variables
+  Here are some Rules to defined Variables
   1.In python Variables Can not start With any Numbers
   2.In python In Between Two variables we can not used any space.
   ## Operators
