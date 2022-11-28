@@ -10,4 +10,4 @@
 ## Hello World! 
   Let's see syntax of python programming language
   
-  _print("Hello'World")
+  _ print("Hello'World")
