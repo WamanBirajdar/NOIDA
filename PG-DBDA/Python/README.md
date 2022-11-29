@@ -22,10 +22,10 @@
   ## Loops
   ## List
   In list there are some methods. Using object we can perform different operations
-  1.append()
-  2.remove(index)
-  3.pop()
-  4.insert()
+  + 1.append()
+  + 2.remove(index)
+  + 3.pop()
+  + 4.insert()
   
   
   
