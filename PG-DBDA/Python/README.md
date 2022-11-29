@@ -1,4 +1,5 @@
 # Python
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ## Introduction
   Python is most widely used programming language now a days.
   Python used in different Domains
