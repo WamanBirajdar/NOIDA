@@ -14,11 +14,11 @@
   1.In python Variables Can not start With any Numbers
   2.In python In Between Two variables we can not used any space.
   ## Operators
-  Assignment Operator
-  Arithmetic Operator
-  Comparison Operator
-  Logical Operator
-  Bitwise Operator
+  * Assignment Operator
+  * Arithmetic Operator
+  * Comparison Operator
+  * Logical Operator
+  * Bitwise Operator
   ## Loops
   ## List
   In list there are some methods. Using object we can perform different operations
