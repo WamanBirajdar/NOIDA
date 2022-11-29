@@ -15,4 +15,9 @@
   ## Operators
   ## Loops
   ## List
+  In list there are some methods. Using object we can perform different operations
+  append()
+  remove(index)
+  pop()
+  
   
