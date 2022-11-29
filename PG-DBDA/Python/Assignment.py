@@ -8,3 +8,5 @@ for i in range(n):
 
 print(l)
     
+#Q find the sum of elements of list without using predefined method/functiom
+#Q find the occurence of given element in list without using predefined method/function and location 
