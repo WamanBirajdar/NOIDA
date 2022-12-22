@@ -1,1 +1,1 @@
-### Advanced analitics Module 
+### Advanced Analytics Module 
