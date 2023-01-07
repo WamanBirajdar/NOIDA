@@ -9,5 +9,12 @@
 + RedHat
 
 > Module 03: Core JAVA
-> Module 04: ### Python
++ Shell
+
+> Module 04: Python
+
+
+> Module 05: Machine Learning
++ EDA
+
 
