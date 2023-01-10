@@ -15,7 +15,5 @@
 
 
 > Module 05: Machine Learning
-+ EDA
-+ Scikit Learn
-+ 
++ Descriptive Analysis
 
