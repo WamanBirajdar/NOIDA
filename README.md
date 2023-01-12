@@ -15,7 +15,7 @@
 
 
 > Module 05: Machine Learning
-+ Descriptive Analysis
++ Descriptive Analysis using Python
 
 
 > Module 07: Data Visualization
