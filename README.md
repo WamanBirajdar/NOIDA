@@ -17,3 +17,7 @@
 > Module 05: Machine Learning
 + Descriptive Analysis
 
+
+> Module 06: Data Visualization
+
+
