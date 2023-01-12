@@ -18,6 +18,8 @@
 + Descriptive Analysis
 
 
-> Module 06: Data Visualization
+> Module 07: Data Visualization
++ Excel
++ Descriptive Analysis in Excel
 
 
