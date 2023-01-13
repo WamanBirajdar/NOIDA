@@ -19,8 +19,7 @@
 
 
 > Module 07: Data Visualization
-+ Excel
--> Filter 
++ Excel 
 + Descriptive Analysis in Excel
 
 
