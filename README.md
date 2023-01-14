@@ -18,8 +18,9 @@
 + Descriptive Analysis using Python
 1. Sypervised Learing
    - Classification
-   _ Regression
+   - Regression
 2. Unsupervised Learing
+   - Clustering
 
 
 
