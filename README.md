@@ -16,6 +16,11 @@
 
 > Module 05: Machine Learning
 + Descriptive Analysis using Python
+1. Sypervised Learing
+   - Classification
+   _ Regression
+2. Unsupervised Learing
+
 
 
 > Module 07: Data Visualization
