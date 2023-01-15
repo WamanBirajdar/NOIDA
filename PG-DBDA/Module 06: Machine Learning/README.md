@@ -14,3 +14,10 @@
 > Un-Supervised Learing
 + Clustering
 
+**ML Projects**
+> Heart Failure Predication
++ Handling Outliers
++ Feature Scaling
++ Building Logistic, Random Forest Model 
++ 
+
