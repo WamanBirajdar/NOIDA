@@ -1,4 +1,4 @@
 # DATA Visualization
-#> Excel
+> # Excel
 + Pie chart
-3> Power BI
+># Power BI
