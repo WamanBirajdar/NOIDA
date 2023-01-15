@@ -1,4 +1,5 @@
 # DATA Visualization
-> # Excel
+>### Excel
 + Pie chart
-># Power BI
++ Bar chart
+>### Power BI
