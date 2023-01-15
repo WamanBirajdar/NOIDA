@@ -7,3 +7,10 @@
 + Handling missing values
 + ANNOVA test
 
+**Machine Models**
+> Supervised Learing
++ Classification
++ Regression
+> Un-Supervised Learing
++ Clustering
+
