@@ -4,14 +4,14 @@ I have created this Power BI dashboard 📈
 I did some Analytics on the Superstore dataset and get some imp insights. I have used some visuals, Bookmarks & DAX to create this Dashboard.
 Here, Get Answers of the following some questions
 
-Q Top selling products
-Q Sales comparison between the current year and previous year
-Q Profit trend between the current year and the previous year
-Q Top 10 Active Buyers
-Q Top 10 valuable customers
-Q Top 5 Profitable states
-Q Profit by ship mode
-and more
++ Q Top selling products
++ Q Sales comparison between the current year and previous year
++ Q Profit trend between the current year and the previous year
++ Q Top 10 Active Buyers
++ Q Top 10 valuable customers
++ Q Top 5 Profitable states
++ Q Profit by ship mode
+  and more
 
 Creates Three dashboards
 1. Sales Analytics
