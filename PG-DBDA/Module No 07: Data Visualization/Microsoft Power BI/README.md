@@ -1,7 +1,7 @@
 I have created this Power BI dashboard 📈
 > you can download above excel file and driven some import insights
 
-I did some Analytics on the Superstore dataset and get some imp insights. I have used some visuals, Bookmarks & DAX to create this Dashboard.
+I did some Analytics on the Superstore dataset and get some imp insights. I have used some visuals, Bookmarks , page navigators & DAX to create this Dashboard.
 Here, Get Answers of the following some questions
 
 + Q Top selling products
