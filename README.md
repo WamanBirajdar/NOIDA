@@ -1,4 +1,5 @@
 # DBDA NOIDA
+> From PG in big data analytics i learn diff technologies with hands on so i puuting all things here 
 ### CDAC NOIDA PG-DBDA 
 > Module 01: Databases
 + MySQL
