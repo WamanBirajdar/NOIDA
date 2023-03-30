@@ -1,5 +1,5 @@
 # DBDA NOIDA
-> From PG in big data analytics i learn diff technologies with hands on so i puuting all things here 
+> From PG in big data analytics i learn Big data technologies, Statistics, Programming Languages and Machine Learing.
 ### CDAC NOIDA PG-DBDA 
 > Module 01: Databases
 + MySQL
